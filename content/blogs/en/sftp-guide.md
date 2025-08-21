@@ -106,6 +106,9 @@ CyberDuck is a free SFTP client, popular on macOS but also available for Windows
 CyberDuck supports bookmarks for saving frequent connections. Add one after a successful connection.
 :::
 
+## I'm already connected! What's next?
+Simply drag and drop to transfer files between your computer and the server. You can edit files directly if your client allows it. Fortunately, all of these allow direct editing of files.
+
 ## Final Notes
 
 With these steps, you will be able to securely access and manage your files on Teramont.net using SFTP. If you encounter issues, check your credentials in the TCP panel or contact Teramont support. Remember that SFTP is ideal for editing and uploading files, especially large ones (100MB+), allowing fast and secure edits.
