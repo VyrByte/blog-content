@@ -1,3 +1,12 @@
+---
+title: SFTP Connection Guide [2025]
+date: "2025-08-21"
+authorId: "ricardo-soto"
+excerpt: "Learn how to connect your files to Teramont.net via SFTP using WinSCP, FileZilla, and CyberDuck quickly and securely."
+category: "Tutorials"
+tags: [SFTP, Teramont, WinSCP, FileZilla, CyberDuck, Security, Servers, Tutorial]
+---
+
 # How to Use SFTP Clients on Teramont.net: WinSCP, FileZilla, and CyberDuck
 
 :::info
